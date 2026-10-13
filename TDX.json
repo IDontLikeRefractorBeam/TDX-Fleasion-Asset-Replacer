@@ -1,0 +1,756 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Refractor",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Images/Magic Wand Trail (v1)",
+          "replace_ids": [
+            11437109125
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\carry\\AppData\\Local\\FleasionNT\\FleasionNT\\Exports\\converted\\Image\\Empty.png"
+        },
+        {
+          "name": "land gradient 2",
+          "replace_ids": [
+            6091341618
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\carry\\AppData\\Local\\FleasionNT\\FleasionNT\\Exports\\converted\\Image\\Empty.png"
+        },
+        {
+          "name": "a",
+          "replace_ids": [
+            7151778302
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\carry\\AppData\\Local\\FleasionNT\\FleasionNT\\Exports\\converted\\Image\\Straight_Beam.png"
+        },
+        {
+          "name": "Empty",
+          "replace_ids": [
+            6091329339
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\carry\\AppData\\Local\\FleasionNT\\FleasionNT\\Exports\\converted\\Image\\Empty.png"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Enemies",
+      "expanded": false,
+      "children": []
+    },
+    {
+      "type": "group",
+      "name": "Development",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Bridge",
+          "replace_ids": [
+            121336756564437
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Skybox",
+          "replace_ids": [
+            402229526,
+            402229293,
+            402229564,
+            402229596,
+            402229417,
+            402229368
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Arts",
+          "replace_ids": [
+            17451186116,
+            17451175107,
+            17454372194,
+            17451167597,
+            17555187464,
+            17454337387,
+            17555190090,
+            17555184112,
+            17423514044,
+            17423535578,
+            17423559341,
+            17423429611,
+            17443261425,
+            17451164995,
+            17454315982,
+            17454329390,
+            17443244399,
+            17444388476
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Map Images",
+          "replace_ids": [
+            13747204507,
+            14762424541,
+            15728754287,
+            14005150270,
+            134760156216140,
+            17224114428,
+            15360245792,
+            126572351510197,
+            17683669972,
+            16283237864,
+            14762424172,
+            72158254681278,
+            17224095196,
+            12381095407,
+            98283315556465,
+            14005165044,
+            17224115263,
+            17224089112,
+            127096242567278,
+            89557375840987,
+            83022637561332,
+            12381094725,
+            17310102408,
+            121077544385568,
+            15360246041,
+            108249868569924,
+            125186890691207,
+            12381096186,
+            98447733806779,
+            15728752874,
+            85903767805845,
+            12968961228,
+            14762424065,
+            77716888360639,
+            17221050497,
+            130004205988099,
+            17224114862,
+            18570868504,
+            129342615598802,
+            87528742614570,
+            15360245910,
+            15728751031,
+            81519037839373,
+            74553987759974,
+            123467208526531,
+            12381095833,
+            16944745433,
+            131913672135346,
+            94390594102421,
+            12968961477,
+            16944726028,
+            17224097562,
+            14762424368,
+            15638522013,
+            125965218740970,
+            131174333941661,
+            139266072553390
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Select Difficulty for dev",
+          "replace_ids": [
+            83503886768469,
+            122087012723401,
+            115965364689412,
+            15085268217,
+            121889923278586
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Select Gamemode Dev",
+          "replace_ids": [
+            112456872212594,
+            110410820739533,
+            85629671174054,
+            75283195297541,
+            80962324892663,
+            80081693610834
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Map Pick Dev",
+          "replace_ids": [
+            12208324525,
+            11247357313,
+            12208324065,
+            12208325026,
+            12208324764,
+            12208323113,
+            135929642700636,
+            12208323618,
+            91483532491106,
+            103976327611808,
+            12208323355,
+            90197045676474,
+            96909624534917,
+            92227590279469,
+            104322178511064,
+            116087976888416,
+            113980364670000,
+            109251976589373,
+            124038567462391,
+            88987448121814,
+            105626831425354,
+            11247718278,
+            119951627958303,
+            7547177270,
+            119667059287331,
+            88280465932389,
+            88716275554764,
+            107085287076947,
+            101606310596684,
+            123839531364815,
+            126156076484909,
+            117440320224125,
+            3573287548,
+            3573287966,
+            3583604671,
+            6444320592,
+            6196665106,
+            6444884785,
+            6444884337,
+            6412503613
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Inbetween dev",
+          "replace_ids": [
+            14170768813,
+            14170772268,
+            14170917697,
+            14170768635,
+            14170772027,
+            89397243583954,
+            140242218525420
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": ".",
+      "expanded": false,
+      "children": [
+        {
+          "type": "group",
+          "name": "Lobby Main",
+          "expanded": true,
+          "children": [
+            {
+              "type": "group",
+              "name": "Play Group Button",
+              "expanded": false,
+              "children": [
+                {
+                  "name": "Play Group Button Hover",
+                  "replace_ids": [
+                    75173888777112
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Play Group Icon",
+                  "replace_ids": [
+                    106560370635326
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Tower Assets",
+              "expanded": true,
+              "children": [
+                {
+                  "name": "Toolbar Slot Highlighted",
+                  "replace_ids": [
+                    11373771662
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Skins Button",
+                  "replace_ids": [
+                    15237626353
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Gold Display",
+              "expanded": false,
+              "children": [
+                {
+                  "name": "Currency Gold Plus Hover",
+                  "replace_ids": [
+                    129845271050312
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Currency Gold Frame Hover",
+                  "replace_ids": [
+                    91701718954440
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Currency Gold Frame",
+                  "replace_ids": [
+                    84669987113267
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Currency Gold Plus",
+                  "replace_ids": [
+                    139223913555280
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Coins Icon",
+                  "replace_ids": [
+                    11847945860
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Topbar",
+              "expanded": false,
+              "children": [
+                {
+                  "name": "Achievements",
+                  "replace_ids": [
+                    122098974027043
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Quests",
+                  "replace_ids": [
+                    92562919133262
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Settings",
+                  "replace_ids": [
+                    126571507899996
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Misc",
+                  "replace_ids": [
+                    83634068321752
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Crystal Display",
+              "expanded": false,
+              "children": [
+                {
+                  "name": "Currency Crystal Plus Hover",
+                  "replace_ids": [
+                    84904198046935
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Currency Crystal Frame Hover",
+                  "replace_ids": [
+                    79355021789660
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Currency Crystal Icon Large",
+                  "replace_ids": [
+                    128790538993129
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Currency Crystal Frame",
+                  "replace_ids": [
+                    125572351571018
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Currency Crystals Plus Default",
+                  "replace_ids": [
+                    140648686637702
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "PVP Shop",
+              "expanded": false,
+              "children": [
+                {
+                  "name": "PVP Shop Button Hover",
+                  "replace_ids": [
+                    96588026068272
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "PVP Logo",
+                  "replace_ids": [
+                    111577313831078
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "PVP Shop Button",
+                  "replace_ids": [
+                    129373689928878
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Play Solo Button",
+              "expanded": false,
+              "children": [
+                {
+                  "name": "Play Solo Hover",
+                  "replace_ids": [
+                    79576749243450
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Button Play Solo",
+                  "replace_ids": [
+                    97190098093563
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Shop Button",
+              "expanded": false,
+              "children": [
+                {
+                  "name": "Shop Hover",
+                  "replace_ids": [
+                    119544297837503
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Shop Default",
+                  "replace_ids": [
+                    96812460551904
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Inventory",
+              "expanded": false,
+              "children": [
+                {
+                  "name": "Inventory Hover",
+                  "replace_ids": [
+                    129012258964947
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Inventory Default",
+                  "replace_ids": [
+                    112914893677823
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Battlepass Button",
+              "expanded": false,
+              "children": [
+                {
+                  "name": "Battlepass Hover",
+                  "replace_ids": [
+                    130524208859009
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "Battlepass Default",
+                  "replace_ids": [
+                    95874898140252
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "name": "Xp Bar",
+              "expanded": false,
+              "children": [
+                {
+                  "name": "Glass",
+                  "replace_ids": [
+                    14101260697
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                },
+                {
+                  "name": "XP Bar",
+                  "replace_ids": [
+                    14101260285
+                  ],
+                  "mode": "id",
+                  "enabled": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Roblox BS (Can Be nice)",
+          "replace_ids": [
+            6845029269,
+            81853033195662,
+            94532826819081,
+            135252817961495,
+            105922646125917,
+            112600566497086,
+            97628760291739
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Annoying Audios",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Fail Buy",
+          "replace_ids": [
+            15351746255
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Medic Beam",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Spiral",
+          "replace_ids": [
+            97843178256584
+          ],
+          "mode": "local",
+          "enabled": false,
+          "local_path": "C:\\Users\\carry\\AppData\\Local\\FleasionNT\\FleasionNT\\Exports\\converted\\Image\\Empty.png"
+        },
+        {
+          "name": "beam 2.5",
+          "replace_ids": [
+            16036493317
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\carry\\AppData\\Local\\FleasionNT\\FleasionNT\\Exports\\converted\\Image\\Empty.png"
+        },
+        {
+          "name": "bmle",
+          "replace_ids": [
+            12781750620
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\carry\\AppData\\Local\\FleasionNT\\FleasionNT\\Exports\\converted\\Image\\Empty.png"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Phaser",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Phaser Main",
+          "replace_ids": [
+            95572135095957
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\carry\\AppData\\Local\\FleasionNT\\FleasionNT\\Exports\\converted\\Image\\Empty.png"
+        },
+        {
+          "name": "Wave",
+          "replace_ids": [
+            75895365389160
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\carry\\AppData\\Local\\FleasionNT\\FleasionNT\\Exports\\converted\\Image\\Empty.png"
+        },
+        {
+          "name": "refractor beam",
+          "replace_ids": [
+            135899066446705
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\carry\\AppData\\Local\\FleasionNT\\FleasionNT\\Exports\\converted\\Image\\Empty.png"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "EDJ",
+      "expanded": true,
+      "children": [
+        {
+          "name": "DJ Ability",
+          "replace_ids": [
+            3283071087
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\carry\\AppData\\Local\\FleasionNT\\FleasionNT\\Exports\\converted\\Image\\DjAbility.png"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Aviator",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Aviator Bombs",
+          "replace_ids": [
+            16430046917,
+            16430040788,
+            16161323405,
+            16289893088,
+            16430043106
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Void Traitor",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Black hole",
+          "replace_ids": [
+            14078609564,
+            14078609574,
+            12985612855,
+            12985613082,
+            15541154940,
+            15541169282,
+            15541163431,
+            12985669990,
+            12985612597,
+            12985613301,
+            17725033256,
+            17725033155,
+            113981536623908,
+            132709545742618,
+            119070226717741
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
