@@ -676,7 +676,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/DjAbility.png?raw=true"
+              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
             },
             {
               "name": "Wave",
@@ -685,7 +685,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/DjAbility.png?raw=true"
+              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
             },
             {
               "name": "refractor beam",
@@ -694,7 +694,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/DjAbility.png?raw=true"
+              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
             }
           ]
         },
@@ -726,7 +726,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/DjAbility.png?raw=true"
+              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
             },
             {
               "name": "land gradient 2",
@@ -735,7 +735,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/DjAbility.png?raw=true"
+              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
             },
             {
               "name": "a",
@@ -753,7 +753,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/DjAbility.png?raw=true"
+              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
             }
           ]
         }
