@@ -580,7 +580,7 @@
     {
       "type": "group",
       "name": "Medic Beam",
-      "expanded": false,
+      "expanded": true,
       "children": [
         {
           "name": "Spiral",
@@ -589,7 +589,7 @@
           ],
           "mode": "cdn",
           "enabled": false,
-          "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/DjAbility.png?raw=true"
+          "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
         },
         {
           "name": "beam 2.5",
@@ -598,7 +598,7 @@
           ],
           "mode": "cdn",
           "enabled": true,
-          "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/DjAbility.png?raw=true"
+          "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
         },
         {
           "name": "bmle",
@@ -607,14 +607,14 @@
           ],
           "mode": "cdn",
           "enabled": true,
-          "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/DjAbility.png?raw=true"
+          "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
         }
       ]
     },
     {
       "type": "group",
       "name": "Towers",
-      "expanded": false,
+      "expanded": true,
       "children": [
         {
           "type": "group",
