@@ -579,40 +579,6 @@
     },
     {
       "type": "group",
-      "name": "Medic Beam",
-      "expanded": false,
-      "children": [
-        {
-          "name": "Spiral",
-          "replace_ids": [
-            97843178256584
-          ],
-          "mode": "cdn",
-          "enabled": false,
-          "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
-        },
-        {
-          "name": "beam 2.5",
-          "replace_ids": [
-            16036493317
-          ],
-          "mode": "cdn",
-          "enabled": true,
-          "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
-        },
-        {
-          "name": "bmle",
-          "replace_ids": [
-            12781750620
-          ],
-          "mode": "cdn",
-          "enabled": true,
-          "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
-        }
-      ]
-    },
-    {
-      "type": "group",
       "name": "Towers",
       "expanded": false,
       "children": [
@@ -754,6 +720,220 @@
               "mode": "cdn",
               "enabled": true,
               "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "Mlr (Unfinished)",
+          "expanded": false,
+          "children": [
+            {
+              "name": "Mlr Explosion",
+              "replace_ids": [
+                12234694731
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Mlr Explosion Smoke",
+              "replace_ids": [
+                82014586500868
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Mlr Explosion again...",
+              "replace_ids": [
+                11584595019
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Mlr Firework",
+              "replace_ids": [
+                116247301540186
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Mlr Carpet Bomb 1",
+              "replace_ids": [
+                13953939608
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Missiles",
+              "replace_ids": [
+                138625340095085
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "B52",
+              "replace_ids": [
+                131287374118149
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Mlr Carpet Bomb 2",
+              "replace_ids": [
+                11745241946
+              ],
+              "mode": "id",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "C-Medic Drone",
+          "expanded": false,
+          "children": [
+            {
+              "name": "Spiral",
+              "replace_ids": [
+                97843178256584
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
+            },
+            {
+              "name": "beam 2.5",
+              "replace_ids": [
+                16036493317
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
+            },
+            {
+              "name": "bmle",
+              "replace_ids": [
+                12781750620
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/IDontLikeRefractorBeam/TDX-Fleasion-Asset-Replacer/blob/main/Images/Empty.png?raw=true"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "Drone (Unfinished)",
+          "expanded": false,
+          "children": [
+            {
+              "name": "Drone Top",
+              "replace_ids": [
+                13953955533
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Drone Bottom Dev",
+              "replace_ids": [
+                16281028930,
+                16279621239,
+                16281014227,
+                16281013130,
+                15799205521,
+                16280376066,
+                15742132970
+              ],
+              "mode": "id",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "Heli (Unfinished)",
+          "expanded": false,
+          "children": [
+            {
+              "name": "Heli 2",
+              "replace_ids": [
+                137716825762159
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Heli 3",
+              "replace_ids": [
+                108258823218669
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Heli 4",
+              "replace_ids": [
+                103836872360416
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Heli 8 smoke",
+              "replace_ids": [
+                9161382463
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Heli 6 explode",
+              "replace_ids": [
+                80361030746380
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Heli 7 explode",
+              "replace_ids": [
+                13954096403
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Heli 1 Explode",
+              "replace_ids": [
+                7596281711
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Heli 5 explode",
+              "replace_ids": [
+                16902638846
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "Profile 69",
+              "replace_ids": [
+                5228731669,
+                79335527780978
+              ],
+              "mode": "id",
+              "enabled": true
             }
           ]
         }
@@ -917,186 +1097,6 @@
           ],
           "mode": "id",
           "enabled": false
-        }
-      ]
-    },
-    {
-      "type": "group",
-      "name": "Heli Explode",
-      "expanded": true,
-      "children": [
-        {
-          "name": "Heli 5 explode",
-          "replace_ids": [
-            16902638846
-          ],
-          "mode": "id",
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "type": "group",
-      "name": "Heli",
-      "expanded": false,
-      "children": [
-        {
-          "name": "Heli 2",
-          "replace_ids": [
-            137716825762159
-          ],
-          "mode": "id",
-          "enabled": false
-        },
-        {
-          "name": "Heli 3",
-          "replace_ids": [
-            108258823218669
-          ],
-          "mode": "id",
-          "enabled": false
-        },
-        {
-          "name": "Heli 4",
-          "replace_ids": [
-            103836872360416
-          ],
-          "mode": "id",
-          "enabled": false
-        },
-        {
-          "name": "Heli 8 smoke",
-          "replace_ids": [
-            9161382463
-          ],
-          "mode": "id",
-          "enabled": false
-        }
-      ]
-    },
-    {
-      "name": "Heli 6 explode",
-      "replace_ids": [
-        80361030746380
-      ],
-      "mode": "id",
-      "enabled": true
-    },
-    {
-      "name": "Heli 7 explode",
-      "replace_ids": [
-        13954096403
-      ],
-      "mode": "id",
-      "enabled": true
-    },
-    {
-      "name": "Heli 1 Explode",
-      "replace_ids": [
-        7596281711
-      ],
-      "mode": "id",
-      "enabled": true
-    },
-    {
-      "name": "Profile 69",
-      "replace_ids": [
-        5228731669,
-        79335527780978
-      ],
-      "mode": "id",
-      "enabled": true
-    },
-    {
-      "type": "group",
-      "name": "Mlr",
-      "expanded": false,
-      "children": [
-        {
-          "name": "Mlr Explosion",
-          "replace_ids": [
-            12234694731
-          ],
-          "mode": "id",
-          "enabled": true
-        },
-        {
-          "name": "Mlr Explosion Smoke",
-          "replace_ids": [
-            82014586500868
-          ],
-          "mode": "id",
-          "enabled": true
-        },
-        {
-          "name": "Mlr Explosion again...",
-          "replace_ids": [
-            11584595019
-          ],
-          "mode": "id",
-          "enabled": true
-        },
-        {
-          "name": "Mlr Firework",
-          "replace_ids": [
-            116247301540186
-          ],
-          "mode": "id",
-          "enabled": true
-        },
-        {
-          "name": "Mlr Carpet Bomb Dev",
-          "replace_ids": [
-            13953939608,
-            11745241946
-          ],
-          "mode": "id",
-          "enabled": true
-        },
-        {
-          "name": "Missiles",
-          "replace_ids": [
-            138625340095085
-          ],
-          "mode": "id",
-          "enabled": true
-        },
-        {
-          "name": "B52",
-          "replace_ids": [
-            131287374118149
-          ],
-          "mode": "id",
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "type": "group",
-      "name": "Drone",
-      "expanded": false,
-      "children": [
-        {
-          "name": "Drone Top",
-          "replace_ids": [
-            13953955533
-          ],
-          "mode": "id",
-          "enabled": true
-        },
-        {
-          "name": "Drone Bottom Dev",
-          "replace_ids": [
-            16281028930,
-            16279621239,
-            16281014227,
-            16281013130,
-            15799205521,
-            16280376066,
-            15742132970
-          ],
-          "mode": "id",
-          "enabled": true
         }
       ]
     }
